@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ragrecipestorageapp-dev-f3e57-authRole",
+      "UnauthRoleArn": "arn:aws:iam::372427538757:role/amplify-ragrecipestorageapp-dev-f3e57-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::372427538757:role/amplify-ragrecipestorageapp-dev-f3e57-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ragrecipestorageapp-dev-f3e57-deployment",
+      "UnauthRoleName": "amplify-ragrecipestorageapp-dev-f3e57-unauthRole",
+      "StackName": "amplify-ragrecipestorageapp-dev-f3e57",
+      "StackId": "arn:aws:cloudformation:us-east-1:372427538757:stack/amplify-ragrecipestorageapp-dev-f3e57/31f262b0-3ec6-11ef-bf51-0ea151c2cfe3",
+      "AmplifyAppId": "d916ul7nvlys4"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d916ul7nvlys4",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
